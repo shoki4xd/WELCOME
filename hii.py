@@ -1,1 +1,1 @@
-print ("ohh, you like proggraming, you are progkisser")
+print ("ohh, you like programming, you are progkisser")
